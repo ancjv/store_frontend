@@ -96,3 +96,17 @@ h3{
 .nav-link:hover{
     color: #ffce00;
 }
+
+/* footer */
+
+.footer {
+    background-color: #891190;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+.footer-text{
+    font-family: 'Staatliches';
+    text-align: center;
+    font-size: 2.2rem;
+}

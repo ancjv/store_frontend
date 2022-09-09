@@ -64,3 +64,35 @@ h2{
 h3{
     font-size: 2.4rem; /* 24 px */
 }
+
+/* header */
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.header-logo{
+    margin: 3rem 0;
+}
+
+/* navegacion */
+
+.nav{
+    background-color: #891190;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.nav-link{
+    font-family: 'Staatliches';
+    color: #fff;
+    font-size: 3rem;
+}
+
+.nav-link--act,
+.nav-link:hover{
+    color: #ffce00;
+}

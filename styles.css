@@ -92,6 +92,10 @@ h3{
     font-size: 3rem;
 }
 
+.nav-link:last-of-type{
+    margin-right: 0;
+}
+
 .nav-link--act,
 .nav-link:hover{
     color: #ffce00;
@@ -110,3 +114,4 @@ h3{
     text-align: center;
     font-size: 2.2rem;
 }
+

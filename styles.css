@@ -115,3 +115,49 @@ h3{
     font-size: 2.2rem;
 }
 
+/* grid */
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+@media (min-width: 760px) {
+    .grid{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.product{
+    background-color: #891190;
+    padding: 1rem;
+}
+
+.product-img{
+    width: 100%;
+
+}
+
+.product-info{
+
+
+}
+
+.product-name{
+    font-size: 4rem;
+
+}
+
+.product-buy{
+    font-size: 2rem;
+    color: #ffce00;
+}
+
+.product-name,
+.product-buy{
+    font-family: 'Staatliches';
+    margin: 1rem 0;
+    text-align: center;
+    line-height: 1.2em;
+}

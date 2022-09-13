@@ -24,7 +24,7 @@ html{
 /* Global */
 
 body {
-    background-color: #9c2760;
+    background-color: #333333;
     font-size: 1.6rem;
     line-height: 1.5;
 }
@@ -79,7 +79,7 @@ h3{
 /* navegacion */
 
 .nav{
-    background-color: #891190;
+    background-color: #dd1818;
     padding: 1rem 0;
     display: flex;
     justify-content: center;
@@ -104,7 +104,7 @@ h3{
 /* footer */
 
 .footer {
-    background-color: #891190;
+    background-color: #dd1818;
     padding: 1rem 0;
     margin-top: 2rem;
 }
@@ -130,15 +130,10 @@ h3{
 }
 
 .product{
-    background-color: #891190;
+    background-color: #dd1818;
     padding: 1rem;
 }
 
-
-.product-info{
-
-
-}
 
 .product-name{
     font-size: 4rem;
@@ -251,7 +246,7 @@ h3{
 }
 
 .form-camp{
-    border-color: #5f1539;
+    border-color: #9e1212;
     border-width: 1rem;
     border-style: solid;
     background-color: transparent;

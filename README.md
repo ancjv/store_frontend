@@ -1,4 +1,4 @@
 # store_frontend
  Front end store
  
-![p6](https://user-images.githubusercontent.com/99373106/195966545-57b20558-4aeb-41a2-860a-276800c6f29d.png)
+![frontend store](https://user-images.githubusercontent.com/99373106/196601071-bf6d1148-f61a-43ff-9ac3-721fa96d92fb.png)

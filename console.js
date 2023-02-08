@@ -7,3 +7,4 @@ return null
 }
 
 console.log(main)
+console.log("Hello")
